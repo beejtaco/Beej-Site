@@ -1,3 +1,8 @@
+HELLO WORLD
+![Image](https://media.gettyimages.com/videos/medium-shot-baboon-eating-banana-video-id712-49?s=640x640)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/beejtaco/Beej-Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
