@@ -1,7 +1,3 @@
-HELLO WORLD<br>
-![Image](https://media.gettyimages.com/videos/medium-shot-baboon-eating-banana-video-id712-49?s=640x640)
-
-
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_95af6"></div>
