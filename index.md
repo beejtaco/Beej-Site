@@ -23,3 +23,10 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
